@@ -8,7 +8,13 @@ I am Md. Mukitul Islam - a Software Engineer living in Bangladesh. 🥐
 
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=default&font=default)
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/mukitul/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/mukitul/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 ## 🛠  Technologies and tools
 
