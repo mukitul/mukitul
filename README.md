@@ -6,12 +6,6 @@
 
 I am Md. Mukitul Islam - a Software Engineer living in Bangladesh. 🥐
 
-  
-![Stats Overview](https://raw.githubusercontent.com/mukitul/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/mukitul/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
 ## 🛠  Technologies and tools
 
 <!-- <a name="learning-now"></a>
