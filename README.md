@@ -6,10 +6,6 @@
 
 I am Md. Mukitul Islam - a Software Engineer living in Bangladesh. 🥐
 
-
-
-### 📊 Github Stats
-<a href='https://github.com/mukitul/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/mukitul/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/mukitul/github-stats-transparent/output/generated/languages.svg)
@@ -69,6 +65,9 @@ I am Md. Mukitul Islam - a Software Engineer living in Bangladesh. 🥐
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor] -->
+### 📊 Github Stats
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=mukitul&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukitul&hide=TeX&layout=compact)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
