@@ -62,9 +62,10 @@ My name is Md. Mukitul Islam. I am a Software Engineer living in Bangladesh. �
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/md-mukitul-islam-140204076/)
 
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/md-mukitul-islam-140204076/)
 
 ## 📖  My Blogs
-
+[![Mukitul Islam](https://img.shields.io/twitter/url?label=blogger&logo=blogger&style=social&url=https%3A%2F%2Fmukitul-islam.blogspot.com)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fmukitul-islam.blogspot.com%2F)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
