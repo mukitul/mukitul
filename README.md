@@ -1,6 +1,9 @@
 # স্বাগত ! 🥖
 
 My name is Md. Mukitul Islam. I am a Software Engineer living in Bangladesh. 🥐
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/md-mukitul-islam-140204076/)
+
+[![Mukitul Islam](https://img.shields.io/twitter/url?label=Mukitul%20Islam's%20Blog&logo=blogger&style=social&url=https%3A%2F%2Fmukitul-islam.blogspot.com)](https://mukitul-islam.blogspot.com/)
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=default&font=default)
 
@@ -57,15 +60,6 @@ My name is Md. Mukitul Islam. I am a Software Engineer living in Bangladesh. �
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor] -->
-
-## 🔍  Where to find me
-
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/md-mukitul-islam-140204076/)
-
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/md-mukitul-islam-140204076/)
-
-## 📖  My Blogs
-[![Mukitul Islam](https://img.shields.io/twitter/url?label=blogger&logo=blogger&style=social&url=https%3A%2F%2Fmukitul-islam.blogspot.com)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fmukitul-islam.blogspot.com%2F)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
