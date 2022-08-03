@@ -1,9 +1,10 @@
 # স্বাগত ! 🥖
 
 My name is Md. Mukitul Islam. I am a Software Engineer living in Bangladesh. 🥐
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/md-mukitul-islam-140204076/)
 
-[![Mukitul Islam](https://img.shields.io/twitter/url?label=Mukitul%20Islam's%20Blog&logo=blogger&style=social&url=https%3A%2F%2Fmukitul-islam.blogspot.com)](https://mukitul-islam.blogspot.com/)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/md-mukitul-islam-140204076/)
+[![Mukitul Islam's Blogger](https://img.shields.io/twitter/url?label=Mukitul%20Islam's%20Blog&logo=blogger&style=social&url=https%3A%2F%2Fmukitul-islam.blogspot.com)](https://mukitul-islam.blogspot.com/)
+[![Mukitul Islam's Medium](https://img.shields.io/twitter/url?label=Mukitul%20Islam%27s%20Medium&logo=medium&style=social&url=https%3A%2F%2Fmedium.com%2F%40mukitulislamratul)](https://medium.com/@mukitulislamratul)
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=default&font=default)
 
