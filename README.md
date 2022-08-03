@@ -3,8 +3,8 @@
 My name is Md. Mukitul Islam. I am a Software Engineer living in Bangladesh. 🥐
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/md-mukitul-islam-140204076/)
-[<img src="https://img.shields.io/badge/blogger?logo=blogger&style=social" alt="Blogger logo" title="Mukitul Islam's Blog" height="25" />](https://mukitul-islam.blogspot.com/)
-[<img src="https://img.shields.io/badge/medium?logo=medium&style=social" alt="Medium logo" title="Mukitul Islam's Medium" height="25" />](https://mukitul-islam.blogspot.com/)
+[<img src="https://img.shields.io/twitter?logo=blogger&style=social" alt="Blogger logo" title="Mukitul Islam's Blog" height="25" />](https://mukitul-islam.blogspot.com/)
+[<img src="https://img.shields.io/twitter?logo=medium&style=social" alt="Medium logo" title="Mukitul Islam's Medium" height="25" />](https://mukitul-islam.blogspot.com/)
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=default&font=default)
 
