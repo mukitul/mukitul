@@ -2,7 +2,7 @@
 
 My name is Md. Mukitul Islam. I am a Software Engineer living in Bangladesh. 🥐
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="My LinkedIn" height="25" />](https://www.linkedin.com/in/md-mukitul-islam-140204076/)
+[<img src="https://img.shields.io/twitter/url?label=My%20LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmd-mukitul-islam-140204076" alt="Blogger logo" title="My Blog" height="25" />](https://www.linkedin.com/in/md-mukitul-islam-140204076/)
 [<img src="https://img.shields.io/twitter/url?label=My%20Blog&logo=blogger&style=social&url=https%3A%2F%2Fmukitul-islam.blogspot.com%2F" alt="Blogger logo" title="My Blog" height="25" />](https://mukitul-islam.blogspot.com/)
 [<img src="https://img.shields.io/twitter/url?label=My%20Medium&logo=medium&style=social&url=https%3A%2F%2Fmedium.com%2F%40mukitulislamratul%2F" alt="Medium logo" title="My Medium" height="25" />](https://medium.com/@mukitulislamratul)
 
