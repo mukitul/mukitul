@@ -6,6 +6,8 @@
 
 I am Md. Mukitul Islam - a Software Engineer living in Bangladesh. 🥐
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukitul&label=Profile%20views&color=0e75b6&style=flat" alt="mukitul" /> </p>
+
 ## 🛠  Technologies and tools
 
 <!-- <a name="learning-now"></a>
