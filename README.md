@@ -20,6 +20,12 @@ I am Md. Mukitul Islam - a Software Engineer living in Bangladesh. 🥐
 
 - [Valid Perfect Square: An Application of Binary Search Algorithm](https://medium.com/swlh/valid-perfect-square-an-application-of-binary-search-algorithm-810f8c56b6cb)
 
+- [Truthy value & Falsy value in JavaScript](https://mukitul-islam.blogspot.com/2022/08/truthy-value-falsy-value-in-javascript.html)
+
+- [Double (==) equal and Triple (===) equal sign - how it works on JavaScript | a brief explanation!](https://mukitul-islam.blogspot.com/2022/07/double-equal-and-triple-equal-sign-how.html)
+
+- [How to create PuTTY shortcut in Windows to establish connection to Linux server? | Step by step guide is here!](https://mukitul-islam.blogspot.com/2022/07/how-to-create-putty-shortcut-in-windows.html)
+
 <!--
 **mukitul/mukitul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
