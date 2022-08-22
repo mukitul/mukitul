@@ -4,26 +4,30 @@
 [<img src="https://img.shields.io/twitter/url?label=My%20Blog&logo=blogger&style=social&url=https%3A%2F%2Fmukitul-islam.blogspot.com%2F" alt="Blogger logo" title="My Blog" height="25" />](https://mukitul-islam.blogspot.com/)
 [<img src="https://img.shields.io/twitter/url?label=My%20Medium&logo=medium&style=social&url=https%3A%2F%2Fmedium.com%2F%40mukitulislamratul%2F" alt="Medium logo" title="My Medium" height="25" />](https://medium.com/@mukitulislamratul)
 
-I am Md. Mukitul Islam - a Software Engineer living in Bangladesh. 🥐
+I am Md. Mukitul Islam Ratul - a Software Engineer living in Dhaka, Bangladesh. 🥐
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukitul&label=Profile%20views&color=0e75b6&style=flat" alt="mukitul" /> </p>
 
-## 📖  My Blogs
-
-- [What is semantic versioning in package.json & how to manage dependency version more efficiently?](https://medium.com/@mukitulislamratul/what-is-semantic-versioning-in-package-json-how-to-manage-dependency-version-more-efficiently-40c3fac5972c)
-
-- [React Web App with TypeScript and Redux — a guide for a quick start](https://medium.com/@mukitulislamratul/react-web-app-with-typescript-and-redux-a-guide-for-a-quick-start-9d9fb7309c8)
-
+## 📖 Backend
 - [How to Run SpringBoot-App Container with MySql Container and PhpMyAdmin Container together using Docker-Compose with Single Command](https://medium.com/@mukitulislamratul/how-to-run-springboot-app-container-with-mysql-container-and-phpmyadmin-container-together-using-76b36e1ae283)
 
 - [Run MySql and PhpMyAdmin Container together Using Docker](https://medium.com/@mukitulislamratul/run-mysql-and-phpmyadmin-container-together-using-docker-e9931ba46c80)
 
-- [Valid Perfect Square: An Application of Binary Search Algorithm](https://medium.com/swlh/valid-perfect-square-an-application-of-binary-search-algorithm-810f8c56b6cb)
+## 📖 Frontend
+- [What is semantic versioning in package.json & how to manage dependency version more efficiently?](https://medium.com/@mukitulislamratul/what-is-semantic-versioning-in-package-json-how-to-manage-dependency-version-more-efficiently-40c3fac5972c)
+
+- [React Web App with TypeScript and Redux — a guide for a quick start](https://medium.com/@mukitulislamratul/react-web-app-with-typescript-and-redux-a-guide-for-a-quick-start-9d9fb7309c8)
 
 - [Truthy value & Falsy value in JavaScript](https://mukitul-islam.blogspot.com/2022/08/truthy-value-falsy-value-in-javascript.html)
 
 - [Double (==) equal and Triple (===) equal sign - how it works on JavaScript | a brief explanation!](https://mukitul-islam.blogspot.com/2022/07/double-equal-and-triple-equal-sign-how.html)
 
+
+## 📖 Algo/DS/Problem Solving
+- [Valid Perfect Square: An Application of Binary Search Algorithm](https://medium.com/swlh/valid-perfect-square-an-application-of-binary-search-algorithm-810f8c56b6cb)
+
+
+## 📖 Tools Setup
 - [How to create PuTTY shortcut in Windows to establish connection to Linux server? | Step by step guide is here!](https://mukitul-islam.blogspot.com/2022/07/how-to-create-putty-shortcut-in-windows.html)
 
 <!--
