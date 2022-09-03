@@ -9,6 +9,8 @@ I am Md. Mukitul Islam Ratul - a Software Engineer living in Dhaka, Bangladesh. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukitul&label=Profile%20views&color=0e75b6&style=flat" alt="mukitul" /> </p>
 
 ## 📖 Backend
+- Java Setup on Windows: [Java 17](https://mukitul-islam.blogspot.com/2022/09/jdk-17-installation-guide-javajdk-how.html), [Java 11](https://mukitul-islam.blogspot.com/2022/09/javajdk-complete-guide-on-jdk-11.html)
+
 - [How to Run SpringBoot-App Container with MySql Container and PhpMyAdmin Container together using Docker-Compose with Single Command](https://medium.com/@mukitulislamratul/how-to-run-springboot-app-container-with-mysql-container-and-phpmyadmin-container-together-using-76b36e1ae283)
 
 - [Run MySql and PhpMyAdmin Container together Using Docker](https://medium.com/@mukitulislamratul/run-mysql-and-phpmyadmin-container-together-using-docker-e9931ba46c80)
