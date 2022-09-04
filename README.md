@@ -9,8 +9,6 @@ I am Md. Mukitul Islam Ratul - a Software Engineer living in Dhaka, Bangladesh. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukitul&label=Profile%20views&color=0e75b6&style=flat" alt="mukitul" /> </p>
 
 ## 📖 Backend
-- Java Setup on Windows: [Java 17](https://mukitul-islam.blogspot.com/2022/09/jdk-17-installation-guide-javajdk-how.html), [Java 11](https://mukitul-islam.blogspot.com/2022/09/javajdk-complete-guide-on-jdk-11.html)
-
 - [How to Run SpringBoot-App Container with MySql Container and PhpMyAdmin Container together using Docker-Compose with Single Command](https://medium.com/@mukitulislamratul/how-to-run-springboot-app-container-with-mysql-container-and-phpmyadmin-container-together-using-76b36e1ae283)
 
 - [Run MySql and PhpMyAdmin Container together Using Docker](https://medium.com/@mukitulislamratul/run-mysql-and-phpmyadmin-container-together-using-docker-e9931ba46c80)
@@ -29,7 +27,9 @@ I am Md. Mukitul Islam Ratul - a Software Engineer living in Dhaka, Bangladesh. 
 - [Valid Perfect Square: An Application of Binary Search Algorithm](https://medium.com/swlh/valid-perfect-square-an-application-of-binary-search-algorithm-810f8c56b6cb)
 
 
-## 📖 Tools Setup
+## 📖 Tools/Softwares Setup
+- Java Setup on Windows (written in বাংলা!): [Java 17](https://mukitul-islam.blogspot.com/2022/09/jdk-17-installation-guide-javajdk-how.html), [Java 11](https://mukitul-islam.blogspot.com/2022/09/javajdk-complete-guide-on-jdk-11.html), [Java 8](https://mukitul-islam.blogspot.com/2022/09/javajdk-jdk-8-installation-guide.html)
+
 - [How to create PuTTY shortcut in Windows to establish connection to Linux server? | Step by step guide is here!](https://mukitul-islam.blogspot.com/2022/07/how-to-create-putty-shortcut-in-windows.html)
 
 <!--
