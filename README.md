@@ -13,6 +13,8 @@ I am Md. Mukitul Islam Ratul - a Software Engineer living in Dhaka, Bangladesh. 
 
 - [Run MySql and PhpMyAdmin Container together Using Docker](https://medium.com/@mukitulislamratul/run-mysql-and-phpmyadmin-container-together-using-docker-e9931ba46c80)
 
+- [Hikari Connection Pool (HikariCP) with Spring Boot](https://mukitul-islam.blogspot.com/2022/09/hikari-connection-pool-hikaricp-with.html)
+
 ## 📖 Frontend
 - [What is semantic versioning in package.json & how to manage dependency version more efficiently?](https://medium.com/@mukitulislamratul/what-is-semantic-versioning-in-package-json-how-to-manage-dependency-version-more-efficiently-40c3fac5972c)
 
