@@ -13,7 +13,7 @@ I am Md. Mukitul Islam Ratul - a Software Engineer living in Dhaka, Bangladesh. 
 
 - [Run MySql and PhpMyAdmin Container together Using Docker](https://medium.com/@mukitulislamratul/run-mysql-and-phpmyadmin-container-together-using-docker-e9931ba46c80)
 
-- [Hikari Connection Pool (HikariCP) with Spring Boot](https://mukitul-islam.blogspot.com/2022/09/hikari-connection-pool-hikaricp-with.html)
+- [Hikari Connection Pool (HikariCP) with Spring Boot](https://medium.com/@mukitulislamratul/maximizing-hikaricp-performance-in-spring-boot-applications-f7ee8474410a)
 
 - [A deep dive into Spring Data Specifications](https://medium.com/@mukitulislamratul/a-deep-dive-into-spring-data-specifications-a9a5aa0f1f3b)
 
