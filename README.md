@@ -16,6 +16,8 @@ I am Md. Mukitul Islam Ratul - a Software Engineer living in Dhaka, Bangladesh. 
 - [Hikari Connection Pool (HikariCP) with Spring Boot](https://medium.com/@mukitulislamratul/maximizing-hikaricp-performance-in-spring-boot-applications-f7ee8474410a)
 
 - [A deep dive into Spring Data Specifications](https://medium.com/@mukitulislamratul/a-deep-dive-into-spring-data-specifications-a9a5aa0f1f3b)
+  
+- [Streamlining Database Naming and Management in Spring Boot App with Hibernate’s Physical Naming Strategy](https://exabyting.com/streamlining-database-naming-and-management-in-spring-boot-app-with-hibernates-physical-naming-strategy/)
 
 ## 📖 Frontend
 - [What is semantic versioning in package.json & how to manage dependency version more efficiently?](https://medium.com/@mukitulislamratul/what-is-semantic-versioning-in-package-json-how-to-manage-dependency-version-more-efficiently-40c3fac5972c)
