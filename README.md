@@ -2,7 +2,6 @@
 
 [<img src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmd-mukitul-islam-140204076" alt="Blogger logo" title="My Blog" height="25" />](https://www.linkedin.com/in/md-mukitul-islam-140204076/)
 [<img src="https://img.shields.io/twitter/url?label=Medium&logo=medium&style=social&url=https%3A%2F%2Fmedium.com%2F%40mukitulislamratul%2F" alt="Medium logo" title="My Medium" height="25" />](https://medium.com/@mukitulislamratul)
-[<img src="https://img.shields.io/twitter/url?label=Blogger&logo=blogger&style=social&url=https%3A%2F%2Fmukitul-islam.blogspot.com%2F" alt="Blogger logo" title="My Blog" height="25" />](https://mukitul-islam.blogspot.com/)
 
 I am Md. Mukitul Islam Ratul - a Software Engineer living in Dhaka, Bangladesh. 🥐
 
